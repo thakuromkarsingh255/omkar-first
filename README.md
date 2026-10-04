@@ -1,4 +1,4 @@
 # omkar-first
 First Git Repository
 <br>
-MyName:Omkar Singh>>
+MyName:Omkar Singh
